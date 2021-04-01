@@ -1,0 +1,23 @@
+.boxgroup{
+  
+display: flex; flex-wrap: wrap;
+width: 1200px;
+}
+
+
+.box {padding: 100px;
+	background-color: black;
+	border:10px solid black;
+	margin:10px ;
+	width: 50px;
+}
+ 
+
+
+
+.blackie {
+	background-color: gray;
+}
+
+
+
